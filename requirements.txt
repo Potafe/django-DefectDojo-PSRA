@@ -27,7 +27,7 @@ html2text==2024.2.26
 humanize==4.12.1
 jira==3.8.0
 PyGithub==1.58.2
-lxml==5.3.1
+lxml==6.1.0
 Markdown==3.7
 openpyxl==3.1.5
 pandas
